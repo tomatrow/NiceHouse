@@ -40,5 +40,5 @@ Then the length of a side of $S$ is about $28.788$ feet.
 
 ### Reference
 
-<img src='{{ "/assets/img/house.jpg" | relative_url }}' style='width:100%;' border="0" alt="Null">
+<img src="https://s3-us-west-2.amazonaws.com/com.ajcaldwell.public/house.jpg" style='width:100%;' border="0" alt="Null">
 
