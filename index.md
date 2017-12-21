@@ -45,11 +45,11 @@ Then the length of a side of $S$ is about $30.676$ feet.
 
 ### Results 
 
-Upper Bedroom: (13.4929, 9.4933)
-Lower Bedroom: (14.4158, 9.2736)
-Livingroom: (13.2291, 10.0647)
-Kitchen: (10.9877, 9.0099)
-Bathroom: (9.5812, 7.164)
+>Upper Bedroom: (13.4929, 9.4933)  
+>Lower Bedroom: (14.4158, 9.2736)  
+>Livingroom: (13.2291, 10.0647)  
+>Kitchen: (10.9877, 9.0099)  
+>Bathroom: (9.5812, 7.164)  
 
 ### Reference
 
